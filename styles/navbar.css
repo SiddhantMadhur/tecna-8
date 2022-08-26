@@ -1,0 +1,16 @@
+.box{
+    background-color: whitesmoke;
+    
+
+}
+
+.title{
+    font-size: x-large;
+    padding: 8px;
+    
+}
+.title:hover{
+    background-color: wheat;
+    width: fit-content;
+    
+}
